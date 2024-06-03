@@ -1,0 +1,24 @@
+24;car;proton;wira;1940;1800.0;petrol;blue;N;D;40000.0
+23;car;proton;saga;1942;1800.0;petrol;brown;N;P;30000.0
+22;car;proton;kancil;1945;1800.0;petrol;white;N;D;25000.0
+11;Lorry;Fuso;Canter;1963;4214.0;Diesel;White;Y;M;109000.0
+16;Car;Porsche;Porsche 914;1976;1971.0;Petrol;Yellow;N;D;755000.0
+8;Car;Ford;Fiesta;1976;1498.0;Petrol;Blue;N;D;83401.0
+20;Car;Mercedes;W123;1986;2525.0;Petrol;Orange;Y;M;26800.0
+9;Lorry;Volvo;FH16;1990;16000.0;Diesel;Silver;Y;P;140000.0
+15;Motorcycle;Yamaha;XJR1300;1998;1251.0;Petrol;Blak;N;P;52800.0
+12;Car;Kia;Sorento;2002;2498.0;Hybrid;Blue;Y;M;211498.0
+19;Van;Chevrolet;Express 2011;2003;4293.0;Petrol;White;Y;M;174000.0
+25;motorcycle;kawasaki;KW R3;2007;1200.0;petrol;green;N;D;30000.0
+26;motorcycle;honda;bobby 145;2010;1300.0;petrol;black;N;M;15000.0
+3;Car;Mercedes;AMG GT Coupe;2014;3982.0;Hybrid;Blue;Y;D;1712888.0
+7;Motorcycle;Ducati;XDiavel;2016;1262.0;Petrol;Red;N;P;141900.0
+6;Car;Aston Martin;DB11;2016;5198.0;Petrol;Black;Y;D;818000.0
+17;Car;Tesla;Model 3;2017;1200.0;Electric;Green;Y;P;218000.0
+5;Lorry;Scania;XT;2017;16000.0;Diesel;Red;Y;P;165000.0
+27;Car;Aston Martin;V8 Coupe;2018;3998.0;Petrol;Black;Y;P;500000.0
+13;Motorcycle;Kawasaki;W800;2019;773.0;Petrol;Silver;N;M;52740.0
+14;Van;Peugeot;e-Expert;2020;1998.0;Electric;Black;Y;D;215800.0
+10;Motorcycle;Harley-Davidson;Street Bob 114;2021;1868.0;Petrol;Red;N;D;114000.0
+18;Car;BMW;i5;2022;1998.0;Electric;Red;Y;P;419800.0
+21;Lorry;Mitsubishi;FZ;2022;5000.0;Petrol;White;Y;D;10900.0

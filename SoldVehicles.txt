@@ -1,0 +1,4 @@
+
+1;Car;Toyota;GT86;2012;1998.0;Petrol;White;Y;P;295000.00
+2;Motorcycle;Honda;CB350RS;2021;348.36;Petrol;Black;N;M;10800.00
+

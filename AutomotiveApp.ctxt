@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=AutomotiveApp
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=prompt
+comment2.target=java.lang.String\ getPasswordInput(java.lang.String)
+comment3.params=text
+comment3.target=javax.swing.JLabel\ createLabel(java.lang.String)
+comment4.params=labelText\ promptText
+comment4.target=javax.swing.JTextField\ createInputField(java.lang.String,\ java.lang.String)
+comment5.params=automotiveList
+comment5.target=void\ createAndShowAddEntryGUI(LinkList)
+comment6.params=automotive\ fileName
+comment6.target=void\ saveEntryToFile(Automotive,\ java.lang.String)
+comment7.params=automotiveList\ fileName
+comment7.target=void\ saveAutomotiveListToFile(LinkList,\ java.lang.String)
+comment8.params=textField
+comment8.target=java.lang.String\ getTextFieldValue(javax.swing.JTextField)
+numComments=9

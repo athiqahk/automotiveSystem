@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=QueueApp
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=automotiveList\ fileName
+comment2.target=void\ saveAutomotiveListToFile(LinkList,\ java.lang.String)
+comment3.params=soldVehiclesQueue\ fileName
+comment3.target=void\ saveSoldVehiclesToFile(Queue,\ java.lang.String)
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ReceiptApp
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=customer\ vehicleCodes\ totalCarsBought
+comment2.target=void\ generateReceipt(Customer,\ java.util.ArrayList,\ int)
+comment3.params=container\ label\ value
+comment3.target=void\ addLabelWithValue(java.awt.Container,\ java.lang.String,\ java.lang.String)
+numComments=4
